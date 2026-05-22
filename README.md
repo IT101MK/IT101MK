@@ -1,7 +1,10 @@
 M365 | Identity | Security Engineer
 
-I work in Identity & Access Management and Cybersecurity, focused on the Microsoft security ecosystem. Day to day that means managing identities at scale, locking down cloud environments, and making sure the right people have access to the right things — and nothing more.
-I'm building this space to share practical scripts, configs, and guides from real-world work. Nothing theoretical — just stuff that actually gets used.
+Identity / Security engineer specializing in:
+
+    IAM and Security with Entra ID, Defender, and Conditional Access
+    Cloud-native management of, Users & Groups, Exchange Online, Apps, and more
+    CI/CD workflows for IT operations
 ---
 What I work with
 `Microsoft Entra ID` `Azure` `Exchange Online` `Microsoft Defender` `PowerShell` `Microsoft 365`
@@ -12,4 +15,5 @@ Exchange Online security and mail flow configurations
 Defender hardening guides and policy templates
 Zero Trust and Conditional Access implementation notes
 ---
+
 
