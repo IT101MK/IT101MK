@@ -1,4 +1,5 @@
-Hi, I'm MK 👋
+M365 | Identity | Security Engineer
+
 I work in Identity & Access Management and Cybersecurity, focused on the Microsoft security ecosystem. Day to day that means managing identities at scale, locking down cloud environments, and making sure the right people have access to the right things — and nothing more.
 I'm building this space to share practical scripts, configs, and guides from real-world work. Nothing theoretical — just stuff that actually gets used.
 ---
