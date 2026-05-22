@@ -1,5 +1,6 @@
 IAM | Cybersecurity | Microsoft Security Engineer
 Microsoft Entra ID | Azure | Exchange Online | Microsoft Defender | PowerShell
+
 I'm an Identity & Access Management and Cybersecurity engineer specialising in the Microsoft security stack:
 Identity governance with Microsoft Entra ID, Conditional Access, and Zero Trust principles
 Cloud security across Azure and Microsoft 365 environments
