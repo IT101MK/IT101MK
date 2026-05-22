@@ -11,5 +11,4 @@ Exchange Online security and mail flow configurations
 Defender hardening guides and policy templates
 Zero Trust and Conditional Access implementation notes
 ---
-#Get in touch
-#![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+
