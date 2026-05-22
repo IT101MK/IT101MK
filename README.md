@@ -22,6 +22,7 @@ Identity and security engineer working across the Microsoft stack — managing u
 - Exchange Online security and mail flow configurations
 - Defender hardening guides and policy templates
 - Conditional Access and Zero Trust implementation notes
+- Adaptive Entra Data Report collections
 
 ---
 
