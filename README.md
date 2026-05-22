@@ -1,4 +1,4 @@
-## M365 | Identity | Security Engineer
+## Microsoft Entra ID | M365 | Identity | Security Engineer
 
 Identity and security engineer working across the Microsoft stack — managing users, securing cloud environments, and building automation to make it all run cleaner.
 
