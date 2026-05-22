@@ -1,4 +1,4 @@
-M365 | Identity | Security Engineer
+**M365 | Identity | Security Engineer**
 
 Identity / Security engineer specializing in:
 
