@@ -25,4 +25,4 @@ Identity and security engineer working across the Microsoft stack — managing u
 - Adaptive Entra Data Report collections
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)(www.linkedin.com/in/michael-hill-linked-in)]
+[![www.linkedin.com/in/michael-hill-linked-in](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]
