@@ -16,6 +16,14 @@ Identity and security engineer working across the Microsoft stack — managing u
 
 ---
 
+**Featured projects**
+
+- **[Entra ID Explorer](https://github.com/IT101MK/Entra-Explorer-Showcase)** — a browser-based Entra ID tenant auditor built on Microsoft Graph and MSAL.js: one-click tenant posture score, group/user/licensing audits, enterprise-app credential checks, and exportable HTML reports — with no backend, so no tenant data ever leaves the browser. *(Showcase with full feature tour and screenshots; source code available on request.)*
+
+More project showcases on the way — a shared-mailbox Defender for Office 365 licensing auditor is next.
+
+---
+
 **What I'm building here**
 
 - PowerShell scripts for identity lifecycle and Entra ID automation
