@@ -1,10 +1,10 @@
 ## Microsoft Entra ID | M365 | Identity & Security
 
-Identity & security across the Microsoft stack — managing users, securing cloud environments, and building automation to make it all run cleaner.
+Identity & security across the Microsoft stack: managing users, securing cloud environments, and building automation to make it all run cleaner.
 
 **Specialities:**
 - Identity governance with Entra ID, Conditional Access, and Zero Trust
-- Microsoft 365 administration — Users & Groups, Exchange Online, and Apps
+- Microsoft 365 administration: Users & Groups, Exchange Online, and Apps
 - Threat protection and hardening with Microsoft Defender
 - PowerShell and Graph API automation for IAM workflows
 
@@ -18,9 +18,11 @@ Identity & security across the Microsoft stack — managing users, securing clou
 
 **Featured projects**
 
-- **[Entra ID Explorer](https://github.com/IT101MK/Entra-Explorer-Showcase)** — a browser-based Entra ID tenant auditor built on Microsoft Graph and MSAL.js: one-click tenant posture score, group/user/licensing audits, enterprise-app credential checks, and exportable HTML reports — with no backend, so no tenant data ever leaves the browser.
+- **[Entra ID Explorer](https://github.com/IT101MK/Entra-Explorer-Showcase)**: a browser-based Entra ID tenant auditor built on Microsoft Graph and MSAL.js, with a one-click tenant posture score, group/user/licensing audits, enterprise-app credential checks, and exportable HTML reports. No backend, so no tenant data ever leaves the browser.
 
-More project showcases on the way — a shared-mailbox Defender for Office 365 licensing auditor is next.
+- **[Shared Mailbox MDO Audit](https://github.com/IT101MK/SharedMailbox-MDO-Audit-Showcase)**: a PowerShell auditing tool for Microsoft 365 that identifies which shared mailboxes are required under Microsoft's licensing terms to hold a Defender for Office 365 licence, using message-trace and forwarding-rule analysis to back the finding with evidence in a self-contained HTML report.
+
+More project showcases on the way.
 
 ---
 
