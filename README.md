@@ -22,6 +22,8 @@ Identity & security across the Microsoft stack: managing users, securing cloud e
 
 - **[Shared Mailbox MDO Audit](https://github.com/IT101MK/SharedMailbox-MDO-Audit-Showcase)**: a PowerShell auditing tool for Microsoft 365 that identifies which shared mailboxes are required under Microsoft's licensing terms to hold a Defender for Office 365 licence, using message-trace and forwarding-rule analysis to back the finding with evidence in a self-contained HTML report.
 
+- **[PhishRange](https://github.com/IT101MK/PhishRange-Showcase)**: a Claude Code tool that triages suspicious emails and attachments on a single Windows PC, detonating attachments in two throwaway VirtualBox sandboxes (one isolated, one with monitored egress) while six analysis agents read the evidence in parallel and return a plain-English verdict. Nothing is actioned automatically.
+
 More project showcases on the way.
 
 ---
